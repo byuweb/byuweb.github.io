@@ -1,0 +1,3 @@
+[submodule "2017-template"]
+	path = 2017-template
+	url = https://github.com/byuweb/2017-template.git
